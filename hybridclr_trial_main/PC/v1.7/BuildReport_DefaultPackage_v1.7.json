@@ -1,0 +1,223 @@
+{
+    "Summary": {
+        "YooVersion": "1.4.12",
+        "UnityVersion": "2021.3.21f1c1",
+        "BuildDate": "2023/4/25 21:19:01",
+        "BuildSeconds": 3,
+        "BuildTarget": 19,
+        "BuildPipeline": 0,
+        "BuildMode": 1,
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "v1.7",
+        "EnableAddressable": true,
+        "UniqueBundleName": false,
+        "EncryptionServicesClassName": "YooAsset.Editor.EncryptionNone",
+        "OutputNameStyle": 1,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 10,
+        "MainAssetTotalCount": 8,
+        "AllBundleTotalCount": 7,
+        "AllBundleTotalSize": 2348136,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0,
+        "RawBundleTotalCount": 4,
+        "RawBundleTotalSize": 2274816
+    },
+    "AssetInfos": [
+        {
+            "Address": "Assembly-CSharp.dll",
+            "AssetPath": "Assets/AssetsPackage/Codes/Assembly-CSharp.dll.bytes",
+            "AssetGUID": "ba483443879fc7c4b8dec9d09b35e731",
+            "AssetTags": [],
+            "MainBundleName": "assets_assetspackage_codes_assembly-csharp_dll_bytes.rawfile",
+            "MainBundleSize": 41472,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/AssetsPackage/Codes/mscorlib.dll.bytes",
+            "AssetGUID": "fe722c7c7ef471e4aa1a9a685ddff127",
+            "AssetTags": [],
+            "MainBundleName": "assets_assetspackage_codes_mscorlib_dll_bytes.rawfile",
+            "MainBundleSize": 2011136,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/AssetsPackage/Codes/System.Core.dll.bytes",
+            "AssetGUID": "2b9a43951fc22bb47a3690a6c4d43871",
+            "AssetTags": [],
+            "MainBundleName": "assets_assetspackage_codes_system_core_dll_bytes.rawfile",
+            "MainBundleSize": 32256,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/AssetsPackage/Codes/System.dll.bytes",
+            "AssetGUID": "f821459a1eb3bc24ba65fc3f9b447787",
+            "AssetTags": [],
+            "MainBundleName": "assets_assetspackage_codes_system_dll_bytes.rawfile",
+            "MainBundleSize": 189952,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/AssetsPackage/Prefabs/Cube.prefab",
+            "AssetGUID": "bfc196cefcd7f314591cf94038406184",
+            "AssetTags": [],
+            "MainBundleName": "assets_assetspackage_prefabs.bundle",
+            "MainBundleSize": 4163,
+            "DependBundles": [
+                "assets_assetspackage_materials.bundle"
+            ],
+            "DependAssets": [
+                "Assets/AssetsPackage/Materials/Cube.mat"
+            ]
+        },
+        {
+            "Address": "HotUpdatePrefab",
+            "AssetPath": "Assets/AssetsPackage/Prefabs/HotUpdatePrefab.prefab",
+            "AssetGUID": "99a285c59770c4243a57bc0dabedd7c8",
+            "AssetTags": [],
+            "MainBundleName": "assets_assetspackage_prefabs.bundle",
+            "MainBundleSize": 4163,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "Sphere",
+            "AssetPath": "Assets/AssetsPackage/Prefabs/Sphere.prefab",
+            "AssetGUID": "b7a7f8cbb16c931429b2158386681906",
+            "AssetTags": [],
+            "MainBundleName": "assets_assetspackage_prefabs.bundle",
+            "MainBundleSize": 4163,
+            "DependBundles": [
+                "assets_assetspackage_materials.bundle"
+            ],
+            "DependAssets": [
+                "Assets/AssetsPackage/Materials/Sphere.mat"
+            ]
+        },
+        {
+            "Address": "MyShaderVariants",
+            "AssetPath": "Assets/ShaderVariants/MyShaderVariants.shadervariants",
+            "AssetGUID": "b4cf69fb675783f4b8a1064bb688c035",
+            "AssetTags": [],
+            "MainBundleName": "unityshaders.bundle",
+            "MainBundleSize": 27512,
+            "DependBundles": [],
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_assetspackage_codes_assembly-csharp_dll_bytes.rawfile",
+            "FileName": "332bfb1a20d6ab6ab19ac60347a6b4ef.rawfile",
+            "FileHash": "332bfb1a20d6ab6ab19ac60347a6b4ef",
+            "FileCRC": "9669fd7f",
+            "FileSize": 41472,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetsPackage/Codes/Assembly-CSharp.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_assetspackage_codes_mscorlib_dll_bytes.rawfile",
+            "FileName": "f44b610518755c10763566bbe6254ec1.rawfile",
+            "FileHash": "f44b610518755c10763566bbe6254ec1",
+            "FileCRC": "79833e88",
+            "FileSize": 2011136,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetsPackage/Codes/mscorlib.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_assetspackage_codes_system_core_dll_bytes.rawfile",
+            "FileName": "03d9a46116625005b31a65438f23ce1b.rawfile",
+            "FileHash": "03d9a46116625005b31a65438f23ce1b",
+            "FileCRC": "fcd9ef77",
+            "FileSize": 32256,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetsPackage/Codes/System.Core.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_assetspackage_codes_system_dll_bytes.rawfile",
+            "FileName": "c3301799ff520ea8c281d67d4ad80ea9.rawfile",
+            "FileHash": "c3301799ff520ea8c281d67d4ad80ea9",
+            "FileCRC": "2e32c919",
+            "FileSize": 189952,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetsPackage/Codes/System.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_assetspackage_prefabs.bundle",
+            "FileName": "19fefa05edfa824a8b4f07078f24afa5.bundle",
+            "FileHash": "19fefa05edfa824a8b4f07078f24afa5",
+            "FileCRC": "48c9ddaf",
+            "FileSize": 4163,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetsPackage/Prefabs/Cube.prefab",
+                "Assets/AssetsPackage/Prefabs/HotUpdatePrefab.prefab",
+                "Assets/AssetsPackage/Prefabs/Sphere.prefab"
+            ]
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "FileName": "735b1cb70bf02f2832d69a4a830e4475.bundle",
+            "FileHash": "735b1cb70bf02f2832d69a4a830e4475",
+            "FileCRC": "810aad1c",
+            "FileSize": 27512,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/ShaderVariants/MyShaderVariants.shadervariants"
+            ]
+        },
+        {
+            "BundleName": "assets_assetspackage_materials.bundle",
+            "FileName": "15546100b6b9281167270a70e5a3f4cb.bundle",
+            "FileHash": "15546100b6b9281167270a70e5a3f4cb",
+            "FileCRC": "96a83947",
+            "FileSize": 41645,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                4
+            ],
+            "AllBuiltinAssets": [
+                "Assets/AssetsPackage/Materials/Cube.mat",
+                "Assets/AssetsPackage/Materials/Sphere.mat"
+            ]
+        }
+    ]
+}
