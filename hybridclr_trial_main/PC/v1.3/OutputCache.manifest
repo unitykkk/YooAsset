@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 778507540
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_assetspackage_prefabs.bundle
+      Dependencies: {}
+    Info_1:
+      Name: unityshaders.bundle
+      Dependencies: {}
