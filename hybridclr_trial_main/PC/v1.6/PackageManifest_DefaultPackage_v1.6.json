@@ -1,0 +1,134 @@
+{
+    "FileVersion": "1.4.6",
+    "EnableAddressable": true,
+    "OutputNameStyle": 1,
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "v1.6",
+    "AssetList": [
+        {
+            "Address": "Assembly-CSharp.dll",
+            "AssetPath": "Assets/AssetsPackage/Codes/Assembly-CSharp.dll.bytes",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/AssetsPackage/Codes/mscorlib.dll.bytes",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/AssetsPackage/Codes/System.Core.dll.bytes",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/AssetsPackage/Codes/System.dll.bytes",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": []
+        },
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/AssetsPackage/Prefabs/Cube.prefab",
+            "AssetTags": [],
+            "BundleID": 4,
+            "DependIDs": [
+                6
+            ]
+        },
+        {
+            "Address": "HotUpdatePrefab",
+            "AssetPath": "Assets/AssetsPackage/Prefabs/HotUpdatePrefab.prefab",
+            "AssetTags": [],
+            "BundleID": 4,
+            "DependIDs": []
+        },
+        {
+            "Address": "MyShaderVariants",
+            "AssetPath": "Assets/ShaderVariants/MyShaderVariants.shadervariants",
+            "AssetTags": [],
+            "BundleID": 5,
+            "DependIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_assetspackage_codes_assembly-csharp_dll_bytes.rawfile",
+            "FileHash": "f9c78d416d6463e6a25fc036f4bc63ce",
+            "FileCRC": "f057faf7",
+            "FileSize": 40448,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetspackage_codes_mscorlib_dll_bytes.rawfile",
+            "FileHash": "f44b610518755c10763566bbe6254ec1",
+            "FileCRC": "79833e88",
+            "FileSize": 2011136,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetspackage_codes_system_core_dll_bytes.rawfile",
+            "FileHash": "03d9a46116625005b31a65438f23ce1b",
+            "FileCRC": "fcd9ef77",
+            "FileSize": 32256,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetspackage_codes_system_dll_bytes.rawfile",
+            "FileHash": "c3301799ff520ea8c281d67d4ad80ea9",
+            "FileCRC": "2e32c919",
+            "FileSize": 189952,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetspackage_prefabs.bundle",
+            "FileHash": "a43fc26a48418cf9bf6beb4f7eaf8dbd",
+            "FileCRC": "33f8259f",
+            "FileSize": 3820,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "FileHash": "735b1cb70bf02f2832d69a4a830e4475",
+            "FileCRC": "810aad1c",
+            "FileSize": 27512,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetspackage_materials.bundle",
+            "FileHash": "d335d87f12db5d3952cb51cf03468ccf",
+            "FileCRC": "04deddee",
+            "FileSize": 41578,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                4
+            ]
+        }
+    ]
+}
