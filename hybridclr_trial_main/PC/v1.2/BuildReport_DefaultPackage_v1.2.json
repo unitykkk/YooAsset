@@ -1,0 +1,152 @@
+{
+    "Summary": {
+        "YooVersion": "1.4.12",
+        "UnityVersion": "2021.3.21f1c1",
+        "BuildDate": "2023/4/25 19:22:10",
+        "BuildSeconds": 0,
+        "BuildTarget": 19,
+        "BuildPipeline": 0,
+        "BuildMode": 1,
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "v1.2",
+        "EnableAddressable": true,
+        "UniqueBundleName": false,
+        "EncryptionServicesClassName": "YooAsset.Editor.EncryptionNone",
+        "OutputNameStyle": 1,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 5,
+        "MainAssetTotalCount": 5,
+        "AllBundleTotalCount": 5,
+        "AllBundleTotalSize": 2275641,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0,
+        "RawBundleTotalCount": 4,
+        "RawBundleTotalSize": 2273280
+    },
+    "AssetInfos": [
+        {
+            "Address": "Assembly-CSharp.dll",
+            "AssetPath": "Assets/AssetsPackage/Codes/Assembly-CSharp.dll.bytes",
+            "AssetGUID": "a488c9090faf88d43bc775678670cd23",
+            "AssetTags": [],
+            "MainBundleName": "assets_assetspackage_codes_assembly-csharp_dll_bytes.rawfile",
+            "MainBundleSize": 39936,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/AssetsPackage/Codes/mscorlib.dll.bytes",
+            "AssetGUID": "734db814c53cdde4789fad5dd6782282",
+            "AssetTags": [],
+            "MainBundleName": "assets_assetspackage_codes_mscorlib_dll_bytes.rawfile",
+            "MainBundleSize": 2011136,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/AssetsPackage/Codes/System.Core.dll.bytes",
+            "AssetGUID": "d3c88f506e73c0a4f8ac5f2d08b21083",
+            "AssetTags": [],
+            "MainBundleName": "assets_assetspackage_codes_system_core_dll_bytes.rawfile",
+            "MainBundleSize": 32256,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/AssetsPackage/Codes/System.dll.bytes",
+            "AssetGUID": "e55866ccc1470d14a90fab6c76027b0b",
+            "AssetTags": [],
+            "MainBundleName": "assets_assetspackage_codes_system_dll_bytes.rawfile",
+            "MainBundleSize": 189952,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "HotUpdatePrefab",
+            "AssetPath": "Assets/AssetsPackage/Prefabs/HotUpdatePrefab.prefab",
+            "AssetGUID": "99a285c59770c4243a57bc0dabedd7c8",
+            "AssetTags": [],
+            "MainBundleName": "assets_assetspackage_prefabs.bundle",
+            "MainBundleSize": 2361,
+            "DependBundles": [],
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_assetspackage_codes_assembly-csharp_dll_bytes.rawfile",
+            "FileName": "a4e3314b1997b44df921c797c2cbe7f0.rawfile",
+            "FileHash": "a4e3314b1997b44df921c797c2cbe7f0",
+            "FileCRC": "fd8afba6",
+            "FileSize": 39936,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetsPackage/Codes/Assembly-CSharp.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_assetspackage_codes_mscorlib_dll_bytes.rawfile",
+            "FileName": "f44b610518755c10763566bbe6254ec1.rawfile",
+            "FileHash": "f44b610518755c10763566bbe6254ec1",
+            "FileCRC": "79833e88",
+            "FileSize": 2011136,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetsPackage/Codes/mscorlib.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_assetspackage_codes_system_core_dll_bytes.rawfile",
+            "FileName": "03d9a46116625005b31a65438f23ce1b.rawfile",
+            "FileHash": "03d9a46116625005b31a65438f23ce1b",
+            "FileCRC": "fcd9ef77",
+            "FileSize": 32256,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetsPackage/Codes/System.Core.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_assetspackage_codes_system_dll_bytes.rawfile",
+            "FileName": "c3301799ff520ea8c281d67d4ad80ea9.rawfile",
+            "FileHash": "c3301799ff520ea8c281d67d4ad80ea9",
+            "FileCRC": "2e32c919",
+            "FileSize": 189952,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetsPackage/Codes/System.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_assetspackage_prefabs.bundle",
+            "FileName": "9dc7034ec13585154aa3fcc5e322c9f1.bundle",
+            "FileHash": "9dc7034ec13585154aa3fcc5e322c9f1",
+            "FileCRC": "ef244b8e",
+            "FileSize": 2361,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetsPackage/Prefabs/HotUpdatePrefab.prefab"
+            ]
+        }
+    ]
+}
